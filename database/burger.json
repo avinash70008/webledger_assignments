@@ -1,0 +1,68 @@
+[
+{
+"name": "Hamburger",
+"img" : "https://www.finedininglovers.com/sites/g/files/xknfdk626/files/2022-05/Popl_burger.jpg" ,
+"price" : "149",
+"disc": "The original and for many still the best. So good, in fact, that René Redzepi, of Copenhagen's Noma, the number one restaurant on the World's 50 Best Restaurants list, has committed fully to his own pandemic era-inspired burger joint Popl."
+
+},
+{
+"name": "Turkey burger ",
+"img" : "https://www.finedininglovers.com/sites/g/files/xknfdk626/files/2022-05/Turkey_burger.jpg" ,
+"price" : "268",
+"disc": "Probably inspired by one of the greatest sandwiches of all time - the leftover turkey sandwich - this is a burger that might not be everyone's first choice, but should definitely be one all burger lovers get to know."
+
+},
+{
+"name": "Portobello mushroom burger",
+"img" : "https://www.finedininglovers.com/sites/g/files/xknfdk626/files/2022-05/portobello_mushroom_burger.jpg" ,
+"price" : "333",
+"disc": "Substituting the meat patty for a delicious, meaty, umami-packed grilled portobello mushroom will give you a vegan burger that will satisfy even the hungriest carnivore. Add mango and beansprouts for a fresh contrast of texture and flavour. "
+
+},
+{
+"name": "Elk burger",
+"img" : "https://www.finedininglovers.com/sites/g/files/xknfdk626/files/2022-05/burger.jpg" ,
+"price" : "244",
+"disc": "Lean, delicious and free-range, what's not to like? Elk meat, recently rising in popularity because of a certain bow-hunting podcast celebrity, is something Canadians and Scandinavians have been eating for millennia. It makes a mean burger too."
+
+},
+{
+"name": "Veggie burger",
+"img" : "https://www.finedininglovers.com/sites/g/files/xknfdk626/files/2022-05/vegie_burger.jpg" ,
+"price" : "333",
+"disc": "Once the lonely refuge of the only vegetarian in your group, the veggie burger now threatens to knock the beef burger off its perch. So much so, that even legendary French chef Alain Ducasse, who once slammed fake"
+
+},
+{
+"name": "Wild salmon burger",
+"img" : "https://www.finedininglovers.com/sites/g/files/xknfdk626/files/2022-05/salmon_burger.jpg" ,
+"price" : "298",
+"disc": "Of all fish, salmon makes probably the best fish patty for a burger. The main thing to consider is the source of your salmon and in general, farmed salmon should be avoided, so if you can, get your hands on wild salmon and grind it down for a salmon burger. "
+
+},
+{
+"name": "Bean burger",
+"img" : "https://www.finedininglovers.com/sites/g/files/xknfdk626/files/2022-05/chickpea_burger.jpg" ,
+"price" : "249",
+"disc": "The longtime veggie burger staple, the bean burger can be explored once more by using different pulses for different flavours in your bean burger patty. Try this ultimate chickpea burger recipe, which relies on middle-eastern falafel recipes, for a satisfying vegetarian burger."
+
+},
+{
+"name": "Cheeseburger",
+"img" : "https://www.finedininglovers.com/sites/g/files/xknfdk626/files/2022-05/cheeseburger.jpg" ,
+"price" : "333",
+"disc": "The addition of cheese transforms a burger... into a cheeseburger. But all joking aside, it just makes sense to add a layer of cheese to your burger, whether it's blue cheese or cheddar, you can't go wrong. Try this recipe for the ultimate cheeseburger, "
+
+},
+{
+"name": "Beyond meat burger",
+"img" : "https://www.finedininglovers.com/sites/g/files/xknfdk626/files/2022-05/burger_0.jpg" ,
+"price" : "245",
+"disc": "Taking all the headlines for the last few years, the beyond-meat burger has been one of those food innovations that has helped shift the dial on how people perceive plant-based food in general. Try it out and see for yourself."
+
+}
+
+
+
+]
